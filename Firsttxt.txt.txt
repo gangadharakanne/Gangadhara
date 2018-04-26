@@ -9,3 +9,7 @@ My txt file move to github main reprosity using git hub url:
 added some comment" hai successfully moved to the main repsosityory"
 
 
+ after logout github logn in web,  & also 
+after logout gitbash, written this line...
+
+
