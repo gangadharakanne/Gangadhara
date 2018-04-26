@@ -1,1 +1,7 @@
 hi, this is sample text file
+
+....
+
+
+My txt file move to github main reprosity using git hub url:
+
