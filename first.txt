@@ -1,0 +1,7 @@
+fisrt txt file 
+
+Edting the file (hotfixteam):
+
+changes done after version v1.0
+
+master barch and other branch need to do changes..

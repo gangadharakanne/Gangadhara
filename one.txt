@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 hi
 This is my first commit-1 version1.
 
+=======
+Hi this is the first file in git hum
+
+now did some chages
+>>>>>>> f5f3a84b9c5ff7c583d4db14094acad12146cf7b
